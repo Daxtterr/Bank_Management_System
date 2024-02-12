@@ -1,3 +1,14 @@
+## Assumptions
+`CHECK_CHARGE` I assumed this is a charge on the customer's account is billed each time he/she checks their account.
+
+`SAVINGS_INTEREST` I assumed this is interest accumulated over a long time of money being kept in a customer's savngs account,I used simple 
+                   interest to calculate it (SI = P × R × T),the implementation is in the savings account class called add_interest()
+                   
+`CHECKING_INTEREST` I assumed this is interest accumulated over a long time of money being kept in a customer's checking account,I used simple 
+                   interest to calculate it (SI = P × R × T),the implementation is in the checking account class called add_interest()
+
+
+
 ## Directories
 
 `screenshots` contains the screenshots of the test cases
