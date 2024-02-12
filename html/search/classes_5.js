@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['transaction_79',['Transaction',['../classTransaction.html',1,'']]]
+  ['transaction_78',['Transaction',['../classTransaction.html',1,'']]]
 ];
