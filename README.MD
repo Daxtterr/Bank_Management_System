@@ -2,8 +2,8 @@
 
 `screenshots` contains the screenshots of the test cases
 
-
 ## Files
+
 `README.md` is the markdown file explaining the project
 
 `.gitignore` contains the files to be ignored by git
@@ -14,7 +14,6 @@
 
 `main.cpp` contains the main function which serves as the point of execution
 
-
 ## Execution
 
 To execute the code, simply run
@@ -23,6 +22,6 @@ To execute the code, simply run
 
 `./main`
 
-
 ## Authors
+
 Emmanuel Aimuel
