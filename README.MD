@@ -1,16 +1,28 @@
-# CS700 Assignment 2
+## Directories
 
-This repository contains the programs required to satisfy the requirements of Assignment 2.
+`screenshots` contains the screenshots of the test cases
 
 
 ## Files
-`README.md` is the markdown file explaining the assignment
+`README.md` is the markdown file explaining the project
 
 `.gitignore` contains the files to be ignored by git
 
-`repo-url.txt` contains the link to the repository
+`headers.h` is the header file
+
+`helpers.cpp` contains the helper functions to be employed in this program
+
+`main.cpp` contains the main function which serves as the point of execution
 
 
-## Author
+## Execution
 
+To execute the code, simply run
+
+`g++ main_1.cpp -o main`
+
+`./main`
+
+
+## Authors
 Emmanuel Aimuel
